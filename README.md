@@ -35,9 +35,23 @@ DreamRender is a Python-based project that utilizes the Hugging Face Inference A
 
   Prompt: "PM Modi drinking tea with Ironman in a cafe"
   Result: (Your generated image will appear here.)
+   ```
 
+<img src="https://res.cloudinary.com/dcoijn5mh/image/upload/v1736159823/h_haxty7.png">
+-----------------------------------------------------------------------------------------------------------------
 
-<img width="330" alt="h" src="https://github.com/user-attachments/assets/4b38915a-e1d6-4313-b43a-2ea62fadea86">
+### Contributing
+   Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
 
+-----------------------------------------------------------------------------------------------------------------
+
+### Acknowledgements
+   Hugging Face Inference API
+   XLabs-AI/flux-RealismLora Model
+   
+-----------------------------------------------------------------------------------------------------------------
+
+### Contact
+   For any queries or suggestions, feel free to reach out to Rohan Pashikanti.
 
 
