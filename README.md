@@ -37,7 +37,7 @@ DreamRender is a Python-based project that utilizes the Hugging Face Inference A
   Result: (Your generated image will appear here.)
 
 
-<img width="330" alt="h" src="https://github.com/user-attachments/assets/4b38915a-e1d6-4313-b43a-2ea62fadea86" />
+<img width="330" alt="h" src="https://github.com/user-attachments/assets/4b38915a-e1d6-4313-b43a-2ea62fadea86">
 
 
 
