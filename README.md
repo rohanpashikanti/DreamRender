@@ -11,46 +11,6 @@ DreamRender is a Python-based project that utilizes the Hugging Face Inference A
 ## Project Setup
 
 ### Prerequisites
-1. Python 3.7+
-2. Hugging Face API Token
-3. Required Python packages: `requests`, `huggingface_hub`
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/rohanpashikanti/ai-image-generator.git
-   cd ai-image-generator
-
-
-Project Name Suggestions:
-DreamRender
-DreamRender
-PromptVision
-ImageForge AI
-VisuaGPT
-PixPrompt
-Imaginate AI
-FusionArt AI
-SceneSmith AI
-PromptPainter
-README File for GitHub
-Here’s a sample README.md for your project:
-
-markdown
-Copy code
-# DreamRender
-
-DreamRender is a Python-based project that utilizes the Hugging Face Inference API to generate stunning images from text prompts. Whether you're a creator, designer, or just exploring the world of AI, this project helps turn imaginative ideas into visual art.
-
-## Features
-- **Text-to-Image Generation**: Create realistic or stylized images from simple text prompts.
-- **Customizable**: Modify prompts to experiment with different styles and concepts.
-- **Easy to Use**: A straightforward implementation with Hugging Face's Inference API.
-- **Save Locally**: Generated images are saved locally for easy access and sharing.
-
-## Project Setup
-
-### Prerequisites
 - **1.** Python 3.7+
 - **2.** Hugging Face API Token
 - **3.** Required Python packages: `requests`, `huggingface_hub`
@@ -58,8 +18,8 @@ DreamRender is a Python-based project that utilizes the Hugging Face Inference A
 ### Installation
 - **1.** Clone the repository:
    ```bash
-   git clone https://github.com/rohanpashikanti/ai-image-generator.git
-   cd ai-image-generator
+   git clone https://github.com/rohanpashikanti/DreamRender.git
+   cd DreamRender
    
 ### Set up your Hugging Face API token:
 -- Replace "enter your api key here" in the script with your actual API token.
